@@ -1,4 +1,4 @@
-package com.avigezerit.calllogger;
+package com.avigezerit.callssmslogs;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

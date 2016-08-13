@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app name headline-->
+    <string name="app_name">יומן שיחות והודעות</string>
+
+    <!--btns-->
+    <string name="pick_contact_btn">בחירת איש קשר</string>
+    <string name="save_to_file_btn">שמירה לקובץ</string>
+    <string name="change_contact_btn">שינוי איש קשר</string>
+    <string name="dialog_yes_btn">כן</string>
+    <string name="dialog_no_btn">לא</string>
+
+    <!--no result-->
+    <string name="no_entries">אין תיעוד מהחודשים האחרונים</string>
+
+    <!--paragraph first time user-->
+    <string name="app_brieff_first_time_user">המקום שלך לתיעוד יומן השיחות וההודעות שלך, לפי איש קשר. \n  גישה מהירה, שמירה לקובץ במכשיר ושליחה למייל. \n  יש לאשר את ההרשאות הבאות לפני שנתחיל:</string>
+
+    <!--paragraph seconed time user-->
+    <string name="app_brieff">המקום שלך לתיעוד יומן השיחות וההודעות שלך, לפי איש קשר. \n  גישה מהירה, שמירה לקובץ במכשיר ושליחה למייל</string>
+
+    <!--dialog text-->
+    <string name="saved_file_want_to_share">הקובץ נשמר בהצלחה! ניתן לצפות בו תחת תיקיית My Logs. \n לשלוח את הקובץ למייל?</string>
+
+    <!--permmision alerts-->
+    <string name="app_requires_permission">האפליקציה צריכה הרשאה ל</string>
+    <string name="calls_perm">שיחות</string>
+    <string name="sms_perm">הודעות</string>
+    <string name="write_storage_perm">שמירה לאחסון המכשיר</string>
+    <string name="read_storage_perm">קריאה מאחסון המכשיר</string>
+    <string name="contact_perm">אנשי קשר</string>
+
+    <!--alert file saved-->
+    <string name="dialog_title_saved_file">יומן שיחות והודעות נשמר!</string>
+    <string name="grant_permissions">אנא לאשר הרשאות לפני שנתחיל</string>
+    <string name="error">ששגיאה בשמירת הקובץ, נא לנסות שוב</string>
+
+    <!--share option-->
+    <string name="email_this">שליחת הקובץ דרך המייל...</string>
+
+
+</resources>

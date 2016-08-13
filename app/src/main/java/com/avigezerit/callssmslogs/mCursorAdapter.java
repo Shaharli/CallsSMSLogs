@@ -1,4 +1,4 @@
-package com.avigezerit.calllogger;
+package com.avigezerit.callssmslogs;
 
 import android.content.Context;
 import android.database.Cursor;

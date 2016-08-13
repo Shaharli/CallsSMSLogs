@@ -1,0 +1,41 @@
+<resources>
+
+    <!--app name headline-->
+    <string name="app_name">Calls &amp; SMS Logs</string>
+
+    <!--btns-->
+    <string name="pick_contact_btn">Pick Contact</string>
+    <string name="save_to_file_btn">Save to file</string>
+    <string name="change_contact_btn">Change Contact</string>
+    <string name="dialog_yes_btn">Yes</string>
+    <string name="dialog_no_btn">No</string>
+
+    <!--no result-->
+    <string name="no_entries">No entries from the recent months</string>
+
+    <!--paragraph first time user-->
+    <string name="app_brieff_first_time_user">One place to view recent calls &amp; SMS entries by a specific contact! Easy Access, Saving to your device and Share it via Mail. \n \n Allow the following permissions to get started:</string>
+
+    <!--paragraph seconed time user-->
+    <string name="app_brieff">One place to view recent calls &amp; SMS entries by a specific contact! Easy Access, Saving to your device and Share it via Mail. \n Get Started!</string>
+
+    <!--dialog text-->
+    <string name="saved_file_want_to_share">Successfuly Saved! You can find the log file under My Logs folder.\n Would you like to email this file?</string>
+
+    <!--permmision alerts-->
+    <string name="app_requires_permission">This app requires permission to </string>
+    <string name="calls_perm">Calls</string>
+    <string name="sms_perm">SMS messages</string>
+    <string name="write_storage_perm">Write to Storage</string>
+    <string name="read_storage_perm">Read from Storage</string>
+    <string name="contact_perm">Contacts</string>
+
+    <!--alert file saved-->
+    <string name="dialog_title_saved_file">Logs File Saved!</string>
+    <string name="grant_permissions">Grant Permissions to start</string>
+    <string name="error">Attachment Error, try again</string>
+
+    <!--share option-->
+    <string name="email_this">Email Logs File...</string>
+
+</resources>
