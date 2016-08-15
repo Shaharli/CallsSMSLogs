@@ -42,10 +42,9 @@ public class checkPermissionsHelper extends FragmentActivity {
         this.activity = activity;
     }
 
-
     public void askPermission(String reqPerm){
 
-        if (context.checkSelfPermission(reqPerm) != PackageManager.PERMISSION_GRANTED){
+        if (ActivityCompat.checkSelfPermission(context, reqPerm) != PackageManager.PERMISSION_GRANTED){
             ActivityCompat.requestPermissions(activity, new String[]{reqPerm}, setReqCode(reqPerm));
         }
     }
